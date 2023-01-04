@@ -1,0 +1,3 @@
+/home/chrisli/dev/proj-4-myserver/build/CMakeFiles/rebuild_cache.dir
+/home/chrisli/dev/proj-4-myserver/build/CMakeFiles/edit_cache.dir
+/home/chrisli/dev/proj-4-myserver/build/CMakeFiles/main.dir

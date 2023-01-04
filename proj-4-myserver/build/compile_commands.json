@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/chrisli/dev/proj-4-myserver/build",
+  "command": "g++   -I/home/chrisli/dev/proj-4-myserver/./include -I/home/chrisli/dev/proj-4-myserver/../network/include -I/home/chrisli/dev/proj-4-myserver/../depends/libevent/include  -g -std=c++11 -Wall -pthread -O0   -o CMakeFiles/main.dir/src/main.cpp.o -c /home/chrisli/dev/proj-4-myserver/src/main.cpp",
+  "file": "/home/chrisli/dev/proj-4-myserver/src/main.cpp"
+},
+{
+  "directory": "/home/chrisli/dev/proj-4-myserver/build",
+  "command": "g++   -I/home/chrisli/dev/proj-4-myserver/./include -I/home/chrisli/dev/proj-4-myserver/../network/include -I/home/chrisli/dev/proj-4-myserver/../depends/libevent/include  -g -std=c++11 -Wall -pthread -O0   -o CMakeFiles/main.dir/src/server.cpp.o -c /home/chrisli/dev/proj-4-myserver/src/server.cpp",
+  "file": "/home/chrisli/dev/proj-4-myserver/src/server.cpp"
+},
+{
+  "directory": "/home/chrisli/dev/proj-4-myserver/build",
+  "command": "g++   -I/home/chrisli/dev/proj-4-myserver/./include -I/home/chrisli/dev/proj-4-myserver/../network/include -I/home/chrisli/dev/proj-4-myserver/../depends/libevent/include  -g -std=c++11 -Wall -pthread -O0   -o CMakeFiles/main.dir/src/client.cpp.o -c /home/chrisli/dev/proj-4-myserver/src/client.cpp",
+  "file": "/home/chrisli/dev/proj-4-myserver/src/client.cpp"
+},
+{
+  "directory": "/home/chrisli/dev/proj-4-myserver/build",
+  "command": "g++   -I/home/chrisli/dev/proj-4-myserver/./include -I/home/chrisli/dev/proj-4-myserver/../network/include -I/home/chrisli/dev/proj-4-myserver/../depends/libevent/include  -g -std=c++11 -Wall -pthread -O0   -o CMakeFiles/main.dir/src/log.cpp.o -c /home/chrisli/dev/proj-4-myserver/src/log.cpp",
+  "file": "/home/chrisli/dev/proj-4-myserver/src/log.cpp"
+}
+]
